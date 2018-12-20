@@ -1,5 +1,5 @@
 print("how are u?")
 print("hello world")
-print("zeroth line")
-print("first line")
+print("00th line")
+print("first 1st line")
 print("second line")
